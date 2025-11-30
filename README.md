@@ -64,7 +64,7 @@ Gradient Boosting was selected as the final model because of:
 ## 🎯 Final Output
 
 ### ✔ Saved Model-models/gb_model.pkl
-🔮 Future Improvements
+🔮 Future Improvements- Will try to
 
 - Add XGBoost / LightGBM models  
 - Perform hyperparameter tuning  
